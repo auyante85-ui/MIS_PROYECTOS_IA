@@ -1,4 +1,5 @@
-import streamlit as st
+import streamlit as stst.write("¡ESTOY AQUÍ!")
+
 
 # Configuración de la página
 st.set_page_config(page_title="Consultoría IA", page_icon="🤖")
